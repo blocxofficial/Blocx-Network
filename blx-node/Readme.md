@@ -22,7 +22,7 @@ chmod +x openethereum
 
 5. You will get a returned answer. Example : address 0x9dACbC430f0b7e4b5078cdb583b4ec6175b004Fc
 
-6. Copy the result that you received, which is your account address to the mode.toml file.
+6. Copy the result that you received, which is your account address to the node.toml file.
 
 
 ```

@@ -55,7 +55,7 @@ reseal_on_txs = "none"
 
    0xD4dfc7572FAC4B92c3Dccebafd5C11C0d587bfA4 
 
-   The best way to conduct this is to import your private key or key-store file to your preferred wallet (for example Metamask)
+   The best way to conduct this is to import your private key JSON file (UTC-xxx) or key-store file to your preferred wallet (for example Metamask)
    Change the network to BLX Mainnet by connecting to our RPC Network Found here : https://docs.blocxchain.org/introduction/connect-blocx-mainet
 
    Once connected send the BLX coin to the Consensus contract address.
